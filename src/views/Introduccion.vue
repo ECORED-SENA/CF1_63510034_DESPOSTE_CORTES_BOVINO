@@ -27,7 +27,7 @@
       .col-lg-5
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/3.png', alt='')        
       .col-lg-7
-        p(data-aos="fade-down") De este modo, la producción cárnica en Colombia se sustenta en las especies Bos Indicus y Bos Taurus, en sus variedades puras, sintéticas y criollas, lo que contribuye de manera significativa al Producto Interno Bruto. Este sector ha logrado iniciar procesos de exportación gracias a la colaboración entre actores privados y entidades gubernamentales.       
+        p(data-aos="fade-down") De este modo, la producción cárnica en Colombia se sustenta en las especies #[i Bos Indicus] y #[i Bos Taurus], en sus variedades puras, sintéticas y criollas, lo que contribuye de manera significativa al Producto Interno Bruto. Este sector ha logrado iniciar procesos de exportación gracias a la colaboración entre actores privados y entidades gubernamentales.       
         img.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/4.svg', alt='')        
     
 </template>

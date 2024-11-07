@@ -51,8 +51,8 @@
                         td Proporcionalmente pequeña, corta y ancha.
                       tr
                         td Orejas
-                        td Largas, puntiagudas, móviles y/o #[i pendulosas].
-                        td Cortas, no #[i pendulosas].
+                        td Largas, puntiagudas, móviles y/o pendulosas.
+                        td Cortas, no pendulosas.
                       tr
                         td Cuernos
                         td Grandes y fuertes (excepto en el #[i Nelore]).
@@ -147,9 +147,9 @@
 
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido.mb-4(data-aos="zoom-in-left")
-      h2 1.2 Razas sintéticas de la especie Bos indicus 
+      h2 1.2 Razas sintéticas de la especie #[i Bos indicus] 
 
-    p(data-aos="fade-down").mb-5 Las razas sintéticas de la especie Bos indicus son el resultado de cruzamientos controlados entre razas puras Bos indicus y otras razas, generalmente Bos taurus, con el fin de combinar las ventajas de ambas. Algunas especies son: 
+    p(data-aos="fade-down").mb-5 Las razas sintéticas de la especie #[i Bos indicus] son el resultado de cruzamientos controlados entre razas puras #[i Bos indicus] y otras razas, generalmente Bos taurus, con el fin de combinar las ventajas de ambas. Algunas especies son: 
 
     .row.justify-content-center.mb-4 
       .col-lg-9.my-3.order-1
@@ -162,7 +162,7 @@
               .list__txt.bgicon.brad.p-0.px-4
                 h3.mb-0 Indubrasil  
 
-        p(data-aos="fade-down") Esta raza se originó en Brasil mediante el cruce de las razas Gyr y Guzerá. Formada a principios del siglo XX, su objetivo era sintetizar las mejores características de las tres principales razas cebuinas: Nelore, Guzerá y Gyr.
+        p(data-aos="fade-down") Esta raza se originó en Brasil mediante el cruce de las razas #[i Gyr] y Guzerá. Formada a principios del siglo XX, su objetivo era sintetizar las mejores características de las tres principales razas cebuinas: Nelore, Guzerá y #[i Gyr].
 
         .row.justify-content-center.p-0
           .col-lg-auto.p-0.bg2.j1(data-aos="fade-left")
@@ -186,7 +186,7 @@
               .list__txt.bgicon.brad.p-0.px-4
                 h3.mb-0.fst-italic Brahman   
 
-        p(data-aos="fade-down") El #[i Brahman] es ideal para la producción de carne en países tropicales. Entre sus características más destacadas están su pelaje predominantemente blanco, especialmente en las hembras, aunque también puede ser ceniza en algunas áreas del cuerpo. El #[i Brahman] tiene un rápido crecimiento muscular, lo que le permite producir más carne en menos tiempo, siendo apto para el sacrificio a corta edad y con mayores pesos. Además, sus crías, al destete, pesan en promedio 35 kg más que las de razas puras.
+        p(data-aos="fade-down") El #[i Brahman] es ideal para la producción de carne en países tropicales. Entre sus características más destacadas está su pelaje predominantemente blanco, especialmente en las hembras, aunque también puede ser ceniza en algunas áreas del cuerpo. El #[i Brahman] tiene un rápido crecimiento muscular, lo que le permite producir más carne en menos tiempo, siendo apto para el sacrificio a corta edad y con mayores pesos. Además, sus crías, al destete, pesan en promedio 35 kg más que las de razas puras.
 
         .row.justify-content-center.p-0
           .col-lg-auto.p-0.bg2.j1(data-aos="fade-left")
@@ -194,7 +194,7 @@
 
           .col.j1.bg1
             .p-2
-              p(data-aos="fade-down").mb-0 El peso de la vaca adulta varía entre 550 y 650 kg, mientras que el del toro puede alcanzar los 1000 kg. LOS terneros al nacer pesan entre 30 y 38 kg, y el rendimiento en canal promedio es del 58 %. La longevidad de la vaca supera los 12 años. En Colombia, el Brahman es considerado la raza cárnica por excelencia.
+              p(data-aos="fade-down").mb-0 El peso de la vaca adulta varía entre 550 y 650 kg, mientras que el del toro puede alcanzar los 1000 kg. Los terneros al nacer pesan entre 30 y 38 kg, y el rendimiento en canal promedio es del 58 %. La longevidad de la vaca supera los 12 años. En Colombia, el Brahman es considerado la raza cárnica por excelencia.
       .col-lg-3.my-3.order-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/14.png', alt='') 
 
@@ -234,7 +234,7 @@
             .col-lg-8.my-3
               p La raza #[i Hereford] se originó en Inglaterra, en el condado de #[i Hereford], una región con valles fértiles y pastizales de alta calidad. En su lugar de origen, los animales viven principalmente del pastoreo, lo que ha permitido que mantengan su rusticidad y habilidad para obtener su propio alimento. Esta raza se formó hace aproximadamente 250 años.
 
-              p En Colombia, el #[i Hereford] se encuentra distribuido en varias zonas del país. Junto al Aberdeen Angus, es una de las razas cárnicas más importantes de Argentina.
+              p En Colombia, el #[i Hereford] se encuentra distribuido en varias zonas del país. Junto al #[i Aberdeen Angus], es una de las razas cárnicas más importantes de Argentina.
 
               p El peso de la vaca oscila entre 550 y 620 kg, y el del toro entre 900 y 1100 kg. Los terneros al nacer pesan entre 30 y 35 kg. El rendimiento en canal es del 60 al 63 %. La longevidad de la vaca supera los 12 años. 
             .col-lg-4.my-3
@@ -245,7 +245,7 @@
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 1.4 Razas sintéticas de la especie #[i Bos Taurus] 
 
-    p(data-aos="fade-down").mb-3 Las razas sintéticas de la especie Bos taurus son el resultado de cruzamientos entre razas puras de Bos taurus y otras razas, buscando aprovechar las mejores cualidades de cada una. Algunas especies son:      
+    p(data-aos="fade-down").mb-3 Las razas sintéticas de la especie #[i Bos Taurus] son el resultado de cruzamientos entre razas puras de #[i Bos Taurus] y otras razas, buscando aprovechar las mejores cualidades de cada una. Algunas especies son:      
     .row.justify-content-center.mb-4 
       .col-lg-4.col-md-6.my-3
         .bg5.h-100.brad1.p-0(data-aos="fade-right")
@@ -279,7 +279,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/22.png', alt='') 
           .p-3 
             h5.fst-italic(data-aos="fade-down") Red Poll
-            p(data-aos="fade-down").mb-0 Desarrollada en Inglaterra en el siglo XIX, esta raza surge del cruce entre ganado Norfolk y Suffolk. Es de tamaño mediano, con vacas que pesan entre 544 y 771 kg, y toros que alcanzan los 907 kg. Los becerros al nacer pesan entre 30 y 40 kg. Rendimiento en canal: 60 %.    
+            p(data-aos="fade-down").mb-0 Desarrollada en Inglaterra en el siglo XIX, esta raza surge del cruce entre ganado #[i Norfolk] y #[i Suffolk]. Es de tamaño mediano, con vacas que pesan entre 544 y 771 kg, y toros que alcanzan los 907 kg. Los becerros al nacer pesan entre 30 y 40 kg. Rendimiento en canal: 60 %.    
 
       .col-lg-4.col-md-6.my-3
         .bg5.h-100.brad1.p-0(data-aos="fade-down")
@@ -293,7 +293,7 @@
           img.img-a.img-t(src='@/assets/curso/temas/24.png', alt='') 
           .p-3 
             h5.fst-italic(data-aos="fade-down") Normando
-            p(data-aos="fade-down").mb-0 Originaria de Francia, en las regiones de La Manche y Calvados. Adaptada a climas fríos y zonas de ladera, es conocida como la "reina de la ladera" en Colombia. Los becerros al nacer pesan entre 40 y 45 kg. Rendimiento en canal: 58 %. Carne comparable a la de Aberdeen Angus.                                   
+            p(data-aos="fade-down").mb-0 Originaria de Francia, en las regiones de La Manche y Calvados. Adaptada a climas fríos y zonas de ladera, es conocida como la "reina de la ladera" en Colombia. Los becerros al nacer pesan entre 40 y 45 kg. Rendimiento en canal: 58 %. Carne comparable a la de #[i Aberdeen Angus].                                   
 
     Separador 
     #t_1_6.titulo-segundo.color-acento-contenido.mb-4(data-aos="zoom-in-left")
@@ -360,7 +360,7 @@
           .col.j1.bg1
             .p-2
               h5(data-aos="fade-down") Velásquez
-              p(data-aos="fade-down").mb-0 Compuesta por 50 % Red Poll, 25 % Brahman Rojo y 25 % Romosinuano.     
+              p(data-aos="fade-down").mb-0 Compuesta por 50 % #[i Red Poll], 25 % Brahman Rojo y 25 % Romosinuano.     
 
       .col-lg-5.my-3
         .row.justify-content-center.px-2
@@ -370,7 +370,7 @@
           .col.j1.bg1
             .p-2
               h5(data-aos="fade-down") Lucerna
-              p(data-aos="fade-down").mb-0 Compuesta por 30 % Hartón del Valle, 40 % Holstein y 30 % Shofthorn Lechera.                 
+              p(data-aos="fade-down").mb-0 Compuesta por 30 % Hartón del Valle, 40 % #[i Holstein] y 30 % #[i Shofthorn] Lechera.                 
 </template>
 
 <script>

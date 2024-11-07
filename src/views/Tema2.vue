@@ -49,16 +49,16 @@
                       .p-4
                         .row.justify-content-center.mb-3
                           .col-auto.bgt.px-3.py-1                        
-                            h5.mb-0.text-center Peligros físicos
-                        p.mb-0 Los peligros físicos se refieren a objetos extraños que pueden encontrarse en los alimentos, como plásticos, vidrio, madera, huesos, semillas o cáscaras.  
+                            h5.mb-0.text-center Peligros químicos
+                        p.mb-0 Los peligros químicos comprenden todos los productos químicos que pueden entrar en contacto con los alimentos a lo largo de la cadena de producción, ya sea durante el almacenamiento o debido a errores en los protocolos de desinfección.
                   .col-lg-4.col-md-6.my-3
                     .bgw.sha.brad1.h-100.text-center
                       img.img-a.img-t(src='@/assets/curso/temas/34.png' alt='')
                       .p-4
                         .row.justify-content-center.mb-3
                           .col-auto.bgt.px-3.py-1                        
-                            h5.mb-0.text-center Peligros físicos
-                        p.mb-0 Los peligros físicos se refieren a objetos extraños que pueden encontrarse en los alimentos, como plásticos, vidrio, madera, huesos, semillas o cáscaras.                               
+                            h5.mb-0.text-center Peligros biológicos
+                        p.mb-0 Los peligros biológicos son causados por la presencia o proliferación de microorganismos como virus, bacterias, hongos, protozoos, levaduras y parásitos, que pueden representar un riesgo para la salud.                           
               .col-lg-3.my-3.order-lg-2
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.png', alt='')   
 
@@ -87,7 +87,7 @@
       .col-lg-3.my-3
         .bg5.h-100.brad.p-3(data-aos="fade-down")
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/37.svg', alt='')
-          p(data-aos="fade-down").mb-0 #[b Utensilios y locales:] higiene adecuada, pueden convertirse en focos de infección.
+          p(data-aos="fade-down").mb-0 #[b Utensilios y locales:] sin la higiene adecuada, pueden convertirse en focos de infección.
 
       .col-lg-3.my-3
         .bg5.h-100.brad.p-3(data-aos="fade-down")
@@ -166,8 +166,8 @@
                         td Nueces, almendras, avellanas. Almacenados adecuadamente. 
 
                       tr
-                        td Cremas chantilly, pasteleras y otras salsas o cremas.  
-                        td Panes galletitas dulces o saladas.
+                        td Cremas #[i chantilly], pasteleras y otras salsas o cremas.  
+                        td Panes, galletitas dulces o saladas.
 
                       tr
                         td Huevos y alimentos con huevo. 
@@ -249,7 +249,7 @@
               img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/50.svg', alt='') 
 
             .col
-              p(data-aos="fade-down").mb-0 La adecuada preparacion y manipulación de los alimentos son factores clave en la prevención de las ETA, por lo que la conducta de los consumidores es crucial para evitar su desarrollo.                         
+              p(data-aos="fade-down").mb-0 La adecuada preparación y manipulación de los alimentos son factores clave en la prevención de las ETA, por lo que la conducta de los consumidores es crucial para evitar su desarrollo.                         
       .col-lg-4.my-3.order-lg-2
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/51.png', alt='') 
 
