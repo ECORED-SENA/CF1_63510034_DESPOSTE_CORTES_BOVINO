@@ -354,7 +354,7 @@
                 p(data-aos="fade-down") Lo invitamos a escuchar el siguiente Pódcast:
                   TarjetaAudio.color-secundario.mt-4(
                   texto="Medidas para manipular y prevenir la contaminación con microorganismos"
-                  :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                  :audio="require('@/assets/componentes/audios/6351001.mp3')"
                   @audio-hover="mostrarIndicadorTarjetaAudio = false"
                 )                                
       .col-lg-4.my-3.order-lg-2
