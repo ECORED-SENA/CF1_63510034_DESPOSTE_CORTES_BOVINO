@@ -143,7 +143,7 @@
                     thead.bgth
                       tr
                         th Alto Riesgo
-                        th Bajo Riesgo (En condiciones adecuadas de manipulación y conservación)
+                        th Bajo Riesgo (en condiciones adecuadas de manipulación y conservación)
                     tbody
                       tr
                         td Alimentos cocidos que se consumen en frío o recalentados. 
@@ -201,7 +201,7 @@
           .row.justify-content-center
             .col-lg-6.my-3(data-aos="fade-left")
               .bg10.brad.p-3.h-100
-                img.img-a.img-t.mb-4(src='@/assets/curso/temas/42.png', alt='') 
+                img.img-a.img-t.mb-4(src='@/assets/curso/temas/42.png', alt='La figura presenta cómo se produce la contaminación alimentaria en cuatro pasos: las manos se contaminan al manipular alimentos crudos, luego tocan alimentos listos para consumir, los contaminan, y finalmente el alimento servido queda contaminado.') 
                 .row.justify-content-center.p-0
                   .col-auto(data-aos="fade-left")
                     img.img-a(data-aos="zoom-in")(src='@/assets/curso/temas/46.svg', alt='') 
